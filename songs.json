@@ -1,0 +1,162 @@
+{
+  "dj_set": {
+    "title": "Epic DJ Set",
+    "opening": {
+      "category": "Opening",
+      "songs": [
+        {
+          "title": "Love is in the Air",
+          "artist": "Block & Crown",
+          "youtube_url": "https://www.youtube.com/watch?v=SmnEhmjgZ9s"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "category": "Hip Hop",
+        "songs": [
+          {
+            "title": "Be Faithful",
+            "artist": "Fatman Scoop",
+            "youtube_url": "https://www.youtube.com/watch?v=SmnEhmjgZ9s"
+          },
+          {
+            "title": "Jump Around",
+            "artist": "House of Pain",
+            "youtube_url": "https://www.youtube.com/watch?v=jrL_LzX5wv4"
+          },
+          {
+            "title": "Low",
+            "artist": "Flo Rida ft. T-Pain",
+            "youtube_url": "https://www.youtube.com/watch?v=U2waT9TxPU0"
+          },
+          {
+            "title": "This Is How We Do It",
+            "artist": "Montell Jordan",
+            "youtube_url": "https://www.youtube.com/watch?v=0hiUuL5uTKc"
+          }
+        ]
+      },
+      {
+        "category": "Dance",
+        "songs": [
+          {
+            "title": "Hotel Room Service",
+            "artist": "Pitbull",
+            "youtube_url": "https://www.youtube.com/watch?v=2up_Eq6r6Ko"
+          },
+          {
+            "title": "Time of Our Lives",
+            "artist": "Pitbull ft. Ne-Yo",
+            "youtube_url": "https://www.youtube.com/watch?v=bTXJQ5ql5Fw"
+          },
+          {
+            "title": "Everybody (Backstreet's Back)",
+            "artist": "Backstreet Boys",
+            "youtube_url": "https://www.youtube.com/watch?v=6M6samPEMpM"
+          }
+        ]
+      },
+      {
+        "category": "Country Vibe",
+        "songs": [
+          {
+            "title": "A Bar Song (Tipsy)",
+            "artist": "Shaboozey",
+            "youtube_url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc"
+          }
+        ]
+      },
+      {
+        "category": "Disco",
+        "songs": [
+          {
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "youtube_url": "https://www.youtube.com/watch?v=Gs069dndIYk"
+          },
+          {
+            "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+            "artist": "ABBA",
+            "youtube_url": "https://www.youtube.com/watch?v=XEjLoHdbVeE"
+          }
+        ]
+      },
+      {
+        "category": "Epics",
+        "songs": [
+          {
+            "title": "A Sky Full of Stars",
+            "artist": "Coldplay",
+            "youtube_url": "https://www.youtube.com/watch?v=VPRjCeoBqrI"
+          }
+        ]
+      },
+      {
+        "category": "Rock",
+        "songs": [
+          {
+            "title": "Livin' on a Prayer",
+            "artist": "Bon Jovi",
+            "youtube_url": "https://www.youtube.com/watch?v=lDK9QqIzhwk"
+          },
+          {
+            "title": "Summer of '69",
+            "artist": "Bryan Adams",
+            "youtube_url": "https://www.youtube.com/watch?v=9f06QZCVUHg"
+          },
+          {
+            "title": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "youtube_url": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+          },
+          {
+            "title": "Sex on Fire",
+            "artist": "Kings of Leon",
+            "youtube_url": "https://www.youtube.com/watch?v=RF0HhrwIwp0"
+          },
+          {
+            "title": "Mr. Brightside",
+            "artist": "The Killers",
+            "youtube_url": "https://www.youtube.com/watch?v=gGdGFtwCNBE"
+          }
+        ]
+      },
+      {
+        "category": "2000's House - Defected",
+        "songs": [
+          {
+            "title": "Finally",
+            "artist": "CeCe Peniston",
+            "youtube_url": "https://www.youtube.com/watch?v=xk8mm1Qmt-Y"
+          },
+          {
+            "title": "At Night",
+            "artist": "Shakedown",
+            "youtube_url": "https://www.youtube.com/watch?v=KiSjtLajTy0"
+          },
+          {
+            "title": "Flawless (Go to the City)",
+            "artist": "George Michael",
+            "youtube_url": "https://www.youtube.com/watch?v=QgGDcn46aW8"
+          },
+          {
+            "title": "Lola's Theme",
+            "artist": "Shapeshifters",
+            "youtube_url": "https://www.youtube.com/watch?v=kIC0aQ56ASE"
+          }
+        ]
+      },
+      {
+        "category": "End of the Night",
+        "songs": [
+          {
+            "title": "I Wanna Dance with Somebody (Who Loves Me)",
+            "artist": "Whitney Houston",
+            "youtube_url": "https://www.youtube.com/watch?v=eH3giaIzONA"
+          }
+        ]
+      }
+    ]
+  }
+}
